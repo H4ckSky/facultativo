@@ -1,0 +1,12 @@
+ Java é uma linguagem de programação popular e amplamente utilizada, criada pela Sun Microsystems em 1995. É uma linguagem orientada a objetos que se destaca por ser multiplataforma, ou seja, o código Java pode ser executado em diferentes sistemas operacionais sem modificações, o código Java é compilado em bytecode, que é interpretado pela Máquina Virtual Java (JVM).
+
+Pontos fortes:
+Ampla comunidade e suporte de ferramentas.
+Bibliotecas maduras e robustas, cobrindo uma vasta gama de funcionalidades.
+Excelente suporte à escalabilidade, tornando-o uma boa opção para sistemas de grande porte.
+Ambiente multiplataforma, graças à JVM.
+
+Pontos fracos:
+Desempenho mais lento em comparação a linguagens compiladas diretamente como C ou C++.
+Verbosidade: O código Java tende a ser mais detalhado, o que pode ser considerado um ponto negativo em comparação a linguagens mais sucintas como Python.
+Uso elevado de memória, pois a JVM tem uma sobrecarga inerente em comparação a programas nativos.
