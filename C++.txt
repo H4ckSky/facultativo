@@ -1,0 +1,13 @@
+ C++ é uma linguagem de programação de propósito geral, criada por Bjarne Stroustrup em 1985 como uma extensão da linguagem C. Ela suporta tanto a programação estruturada quanto a orientação a objetos, oferecendo mais controle sobre os recursos de hardware, o que a torna uma escolha popular para o desenvolvimento de sistemas de alto desempenho. C++ é frequentemente usada em sistemas embarcados, aplicações em tempo real, jogos e softwares de sistema.
+
+Pontos fortes do C++:
+Desempenho: C++ é uma linguagem compilada diretamente para código de máquina, permitindo alta performance e controle sobre recursos, como gerenciamento de memória.
+Controle de memória: Com C++, você tem controle direto sobre o gerenciamento de memória (alocação e desalocação), o que é útil para otimizar aplicações.
+Portabilidade: O C++ pode ser usado em diversas plataformas, sendo uma escolha comum para sistemas multiplataforma.
+Orientação a objetos e paradigmas híbridos: Combina programação orientada a objetos com programação procedural e outras abordagens, oferecendo flexibilidade.
+Bibliotecas padrão e comunidade forte: C++ possui uma rica biblioteca padrão (STL) e uma comunidade vasta, com muitas ferramentas e frameworks.
+Pontos fracos do C++:
+Complexidade: O C++ é uma linguagem complexa e verbosa, especialmente ao lidar com seus recursos avançados, como templates e gerenciamento de memória manual.
+Curva de aprendizado íngreme: Por ter muitos conceitos avançados, C++ pode ser mais difícil de aprender e dominar em comparação com outras linguagens mais modernas.
+Gestão manual de memória: Embora seja um ponto forte para otimização, o gerenciamento manual de memória pode levar a erros críticos, como vazamentos de memória e estouros de buffer.
+Compilação lenta: Programas grandes em C++ podem levar mais tempo para compilar, especialmente se fizerem uso extensivo de templates.
