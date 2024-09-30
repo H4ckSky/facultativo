@@ -21,9 +21,9 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
-      - name: Run Discord Webhook
-        uses: Sniddl/discord-commits@v1.6
+      - name: Discord Notify Webhook
+        uses: EDUJOS/ds-webhook@v1.0.0
         with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          template: "avatar-with-link"
-          include-extras: true
+          webhook_url: ${{ secrets.DISCORD_WEBHOOK }}
+          title: Some Title
+          description: Some Description
